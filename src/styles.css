@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f0f0f0;
+  margin: 0;
+  padding: 0;
+}
+.container {
+  background: #efe8e8;
+  padding: 1em;
+  margin: 1em auto;
+  max-width: 500px;
+  border-radius: 4px;
+}
+input {
+  width: 100%;
+  padding: 0.5em;
+  margin-bottom: 0.5em;
+}
+button {
+  padding: 0.5em 1em;
+}
+ul {
+  list-style: none;
+  padding: 0;
+}
+li {
+  margin: 0.5em 0;
+}
+a {
+  text-decoration: none;
+  color: #333;
+}
